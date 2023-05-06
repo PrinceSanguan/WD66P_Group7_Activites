@@ -1,1 +1,0 @@
-git_set_go_txt
