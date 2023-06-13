@@ -1,0 +1,186 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: lightcyan;
+}
+
+body {
+  background-image: url(images/hacker.webp);
+  background-position: center;
+}
+
+.div-contacts p {
+  display: inline-block;
+}
+
+ul {
+  display: inline-block;
+  margin-left: 30%;
+}
+
+ul li {
+  display: inline-block;
+  padding-left: 0.625rem;
+}
+
+.container1 {
+  border-top-right-radius: 1.25rem;
+  width: 70%;
+  margin: auto;
+  padding-bottom: 2.5rem;
+  border-top-left-radius: 1.25rem;
+  margin-top: 2%;
+}
+
+.icon {
+  width: 70%;
+  margin-left: 35%;
+}
+
+.image {
+  position: absolute;
+  border: 0.5rem solid white;
+  box-shadow: 0.1875rem 0.1875rem 0.1875rem black;
+  width: fit-content;
+  display: inline-block;
+  margin-left: 5%;
+  margin-top: 2%;
+}
+
+.image img {
+  width: 10rem;
+}
+
+.nameofapplicant {
+  position: relative;
+  border: 0.125rem solid red;
+  width: fit-content;
+  display: inline-block;
+  margin-left: 40%;
+  margin-top: 3%;
+  border: 0.0625rem solid white;
+  box-shadow: 0.1875rem 0.1875rem 0.1875rem black;
+}
+
+.nameofapplicant h1 {
+  color: rgb(10, 237, 203);
+  font-weight: bold;
+  font-size: 3.125rem;
+}
+
+.nameofapplicant p {
+  text-align: center;
+  font-size: 1.25rem;
+  color: rgb(10, 237, 203);
+}
+
+.container2 {
+  width: 70%;
+  margin: auto;
+  border-bottom: 0.0625rem solid black;
+}
+
+.div-table {
+  width: 85%;
+  margin: auto;
+  padding-top: 1.875rem;
+  display: flex;
+}
+
+.table1 {
+  width: 50%;
+  display: inline-block;
+}
+
+.table2 {
+  width: 50%;
+  display: inline-block;
+  position: relative;
+}
+
+.table3 {
+  margin-left: 30%;
+}
+
+.container4 {
+  width: 70%;
+  margin: auto;
+  box-shadow: 0.1875rem 0.1875rem 0.1875rem 0.1875rem black;
+}
+
+.table-four {
+  width: 100%;
+}
+
+.div-certificate-none,
+.div-timeline {
+  width: 70%;
+  margin: auto;
+  margin-top: 3%;
+}
+
+.div-certificate-border {
+  width: 70%;
+  margin: auto;
+  margin-top: 3%;
+}
+
+.div-timeline a {
+  text-decoration: none;
+}
+
+.first-timeline,
+.second-timeline,
+.third-timeline,
+.fourth-timeline,
+.first-certificate {
+  width: 60%;
+  margin-left: 10%;
+  margin-top: 3%;
+  box-shadow: 0.1875rem 0.1875rem 0.1875rem 0.1875rem rgb(235, 214, 214);
+  text-align: center;
+}
+
+.first-timeline:hover,
+.second-timeline:hover,
+.third-timeline:hover,
+.fourth-timeline:hover {
+  transition: 0.3s;
+}
+
+.first-timeline h4,
+.second-timeline h4,
+.third-timeline h4,
+.fourth-timeline h4,
+.first-certificate h4 {
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.682);
+}
+
+.first-timeline span,
+.second-timeline span,
+.third-timeline span,
+.fourth-timeline span,
+.first-certificate span {
+  color: #98bcc1;
+  font-size: 1.25rem;
+}
+
+.first-timeline h5,
+.second-timeline h5,
+.third-timeline h5,
+.fourth-timeline h5 {
+  color: #6c757d;
+  font-size: 0.9375rem;
+}
+
+.first-timeline p,
+.second-timeline p,
+.third-timeline p,
+.fourth-timeline p {
+  font-size: 1.125rem;
+  color: white;
+}
+
+.image-certificate {
+  text-align: center;
+}
