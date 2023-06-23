@@ -1,2 +1,0 @@
-# WD66P_Group7_Activites
-WD66P_Group7_Activites
